@@ -1,7 +1,7 @@
 "use client"
 import { useState } from "react"
-import { Input } from "./input"
-import { Button } from "./button"
+import { Input } from "./ui/input"
+import { Button } from "./ui/button"
 import { Loader2 } from "lucide-react"
 
 const AddProductForm = () => {

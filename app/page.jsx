@@ -1,4 +1,4 @@
-import AddProductForm from "@/components/ui/AddProductFrom";
+import AddProductForm from "@/components/AddProductFrom";
 import { Button } from "@/components/ui/button";
 import { Bell, Rabbit, Shield } from "lucide-react";
 import Image from "next/image";
