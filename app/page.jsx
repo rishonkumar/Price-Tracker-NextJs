@@ -54,7 +54,7 @@ export default async function Home() {
           <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto">Track prices of your favorite products and get notified when they drop below your target price.</p>
 
           {/* ADd product form */}
-          <AddProductForm />
+          <AddProductForm user={user} />
 
 
           {/* Features */}
